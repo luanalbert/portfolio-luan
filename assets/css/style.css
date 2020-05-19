@@ -77,7 +77,7 @@ Responsividade
 @media (min-width: 576px) and (max-width: 767.98px) {
     #banner1 {
         width: 100vw;
-        height: 50vh;
+        height: 100vh;
         overflow-x: hidden;
     }
     .row .col h1 {
