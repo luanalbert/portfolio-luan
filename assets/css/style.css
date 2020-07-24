@@ -23,12 +23,20 @@ body {
     justify-content: center;
     
 }
+#banner2{
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 .row .col h1 {
     padding-top: 20px;
     color: #00AFEF;
     font-size: 2em;
     text-shadow: 2px 2px 3px rgb(0, 0, 0);
-}
+}   
 .row .col ul li{
     color: #ffffff;
 }
